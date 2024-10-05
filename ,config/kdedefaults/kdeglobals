@@ -1,0 +1,8 @@
+[General]
+ColorScheme=DarkRed_04
+
+[Icons]
+Theme=Gruvbox
+
+[KDE]
+widgetStyle=Breeze
